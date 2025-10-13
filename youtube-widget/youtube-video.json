@@ -1,4 +1,5 @@
 {
+    "widgetid": "c58e6015-db3d-4f04-8d67-55696eb662f9",
     "name": "youtube-video",
     "component": "views/components/widgets/youtube-video",
     "defaultconfig":null,
